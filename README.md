@@ -46,16 +46,6 @@ I believe that robust hardware requires robust documentation. My repositories pr
 * **English:** Fluent (Full professional proficiency)
 * **Spanish:** Basic
 
----
-
-## 📬 Connect with Me
-
-I'm always open to discussing new embedded systems architectures, hardware validation methodologies, or the intersection of power electronics and IoT.
-
-<a href="https://linkedin.com/in/enzolfernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:enzolfernandes@proton.me"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=ProtonMail&logoColor=white" alt="Email"></a>
-<a href="tel:+5517997339126"><img src="https://img.shields.io/badge/-Phone-43a047?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
-
 <!--
 **enzolfernandes/enzolfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

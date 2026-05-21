@@ -21,8 +21,6 @@ With a strong background in critical energy environments, I am passionate about 
 
 ## 🚀 Featured Engineering Projects
 
-I believe that robust hardware requires robust documentation. My repositories prioritize clear documentation, including block diagrams, PCB renders, and test methodology.
-
 ### 🚁 [ESP32 BLDC Motor ESC (Senior Thesis)](https://github.com/enzolfernandes/esp32-bldc-esc)
 *Complete R&D cycle of an Electronic Speed Controller.*
 * **Technologies:** Altium, C++, ESP32, LTspice, Bluetooth.

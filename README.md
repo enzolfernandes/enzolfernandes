@@ -1,4 +1,4 @@
-### Electrical Engineer | Hardware Test Engineering | Embedded Systems R&D
+## ⚡ Electrical Engineer | Hardware Test Engineering | Embedded Systems R&D
 
 I bridge the gap between **Physical Power Electronics** and **Digital Control Logic**. Based in Guarulhos, Brazil, I specialize in the full development and validation cycle of electronic hardware from Altium simulation and PCB layout to C/C++ firmware development and rigid laboratory testing.
 

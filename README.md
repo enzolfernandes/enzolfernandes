@@ -1,60 +1,46 @@
-## ⚡ Electrical Engineer | Hardware Test Engineering | Embedded Systems R&D
+# Enzo Fernandes
 
-I bridge the gap between **Physical Power Electronics** and **Digital Control Logic**. Based in Guarulhos, Brazil, I specialize in the full development and validation cycle of electronic hardware from Altium simulation and PCB layout to C/C++ firmware development and rigid laboratory testing.
+**Electrical Engineering graduate · Electronic hardware testing · Embedded systems**
 
-With a strong background in critical energy environments, I am passionate about developing and optimizing **IoT devices**, ensuring their reliability through test automation and statistical data analysis.
+I work with electronic hardware testing, component-level troubleshooting and laboratory operations at TDM GRID, where my formal role is **Assistente Técnico de Proteção e Controle**. My work includes bench instrumentation, Python scripts for reports and equipment logs, and technical collaboration with the manufacturer Vebko.
 
----
+I completed my Electrical Engineering degree at **UNESP in August 2026**. My academic and team projects connect power electronics, PCB design and ESP32 firmware.
 
-## 🛠️ Technology Stack & Engineering Tools
+## Selected projects
 
-| Area | Tools & Technologies |
-| :--- | :--- |
-| **EDA & PCB Design** | `Altium Designer`, `EasyEDA`, `PCB Design Validation`, `Signal Integrity` |
-| **Simulation & Modeling** | `LTspice`, `MATLAB/Simulink`, `Circuit Simulation` |
-| **Firmware & Control** | `C/C++`, `ESP32`, `STM32`, `IoT Devices Architecture`, `Vector Control`, `Bluetooth` |
-| **Testing & Automation** | `Python Scripting`, `Data Acquisition`, `Statistical Analysis`, `Test Automation`, `Debugging` |
-| **Version Control & DevOps** | `Git`, `GitHub`, `GitHub Actions` |
-| **Lab Equipment** | `Oscilloscopes`, `Signal Generators`, `Logic Analyzers`, `Programmable Power Supplies` |
+### [ESP32 BLDC ESC — undergraduate thesis](https://github.com/enzolfernandes/esp32-bldc-esc)
 
----
+I developed and analyzed a BLDC controller prototype combining Altium PCB design, LTspice simulations, C/C++ firmware, PlatformIO, FreeRTOS, a hardware abstraction layer, ADC acquisition and serial/Wi-Fi telemetry.
 
-## 🚀 Featured Engineering Projects
+**Documented outcome:** hardware artifacts, firmware and static bench tests, including fault investigation. **Full dynamic validation with a rotating motor was not completed.** Six-step commutation is implemented; FOC and CAN are future work.
 
-### 🚁 [ESP32 BLDC Motor ESC (Senior Thesis)](https://github.com/enzolfernandes/esp32-bldc-esc)
-*Complete R&D cycle of an Electronic Speed Controller.*
-* **Technologies:** Altium, C++, ESP32, LTspice, Bluetooth.
-* **Key Achievement:** Modeled and simulated the power stage in LTspice, designed the complete PCB in Altium, and developed C++ firmware for real-time telemetry monitoring over Bluetooth, functioning as a complete IoT sensor node.
+[Published thesis — UNESP](https://hdl.handle.net/11449/327581) · [Firmware](https://github.com/enzolfernandes/esp32-bldc-esc/tree/main/Firmware) · [Hardware](https://github.com/enzolfernandes/esp32-bldc-esc/tree/main/Hardware)
 
-### 🤖 [TERA Robotics Team - Embedded Systems (Fork)](https://github.com/enzolfernandes/combatIO)
-*Electronic Lead & Firmware Developer.*
-* **Technologies:** C++, ESP32, Bluetooth, In-Circuit Emulators.
-* **Key Achievement:** Developed motor drive vector control firmware and remote connectivity protocols via Bluetooth for combat and sumo robots, using in-circuit emulators to debug complex hardware-software interactions.
+### [CombatIO — TERA robotics team contribution](https://github.com/enzolfernandes/combatIO)
 
-### 🧪 [Process Automation Tools](https://github.com/enzolfernandes/automation-scripts)
-*Python scripts for engineering laboratory optimization.*
-* **Technologies:** Python, Data Acquisition, Log Processing.
-* **Key Achievement:** Developed scripts to automate event log processing from critical energy equipment and automated technical report generation, optimizing the inventory and OS flow of an engineering lab.
+A fork of the [TERA team's project](https://github.com/roboticatera/CombatIO), using ESP32, C++, PlatformIO and a PS4 controller over Bluetooth.
 
----
+**My documented contributions:** changes to locomotion commands, motor-stop commands on controller disconnection, and adaptation to a unidirectional weapon ESC. These are code contributions to a team project; the repository does not establish complete autonomous operation or measured performance.
 
-## 🌎 Languages
+[Disconnection handling](https://github.com/enzolfernandes/combatIO/commit/440a736070e4b5e61b1fc55070fb83deb96480b1) · [ESC adaptation](https://github.com/enzolfernandes/combatIO/commit/a3fbd44a5bf5782af3b5fd2ee67f7c70121aa490)
 
-* **Portuguese:** Native
-* **English:** Fluent (Full professional proficiency)
-* **Spanish:** Basic
+### [Laboratory and study automation scripts](https://github.com/enzolfernandes/automation-scripts)
 
-<!--
-**enzolfernandes/enzolfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Examples include [Python document generation from spreadsheet records](https://github.com/enzolfernandes/automation-scripts/blob/main/bulkWordCreator/bulkWordCreator.py) and a [PowerShell serial console for a Fluke 8846A](https://github.com/enzolfernandes/automation-scripts/tree/main/fluke-8846a-console). These sources show implementation; no new instrument test or measured time saving is claimed here.
 
-Here are some ideas to get you started:
+## Tools in context
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Context | Tools and methods |
+| --- | --- |
+| Laboratory work | Oscilloscopes, multimeters, programmable supplies, troubleshooting and Python |
+| Academic hardware project | Altium Designer, LTspice, PCB design and MATLAB plots from simulation data |
+| Embedded projects | C/C++, ESP32, PlatformIO/VS Code, FreeRTOS, ADC, PWM and Bluetooth |
+| Collaboration | Git/GitHub; individual contributions linked above |
+
+**Languages:** Portuguese (native), English (fluent).
+
+I am interested in electronic hardware, firmware, embedded systems, testing and validation.
+
+[LinkedIn](https://www.linkedin.com/in/enzolfernandes/)
+
+*Portfolio presentation revised on 16 October 2026 using existing project evidence. This documentation update does not represent new firmware development or additional bench testing.*

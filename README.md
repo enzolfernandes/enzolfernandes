@@ -1,8 +1,8 @@
 # Enzo Fernandes
 
-**Electrical Engineering graduate · Hardware testing · Embedded systems**
+**Electrical Engineer · Hardware testing · Embedded systems**
 
-I graduated in Electrical Engineering at **UNESP in August 2026**. I work with electronic hardware testing, component-level troubleshooting and laboratory operations at TDM GRID, where my formal role is **Assistente Técnico de Proteção e Controle**.
+I am an electrical engineer with a degree from **UNESP (August 2026)**. I work with electronic hardware testing, component-level troubleshooting and laboratory operations at TDM GRID, where my formal role is **Assistente Técnico de Proteção e Controle**.
 
 My work includes bench instrumentation, Python scripts for reports and equipment logs, and technical collaboration with the manufacturer Vebko. In my academic and team projects, I combine power electronics, PCB design and ESP32 firmware.
 
